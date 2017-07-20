@@ -1,4 +1,4 @@
-# dual-d2d
+# Demo of Dual-regularized Feedback and Precoding for D2D Assisted MIMO Systems
 
 These codes generate simulation results depicted in the paper titled
 
